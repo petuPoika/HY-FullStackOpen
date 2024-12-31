@@ -1,3 +1,5 @@
-sequenceDiagram
-    participant bworser
-    participant server
+```mermaid
+    sequenceDiagram
+        participant bworser
+        participant server
+```
